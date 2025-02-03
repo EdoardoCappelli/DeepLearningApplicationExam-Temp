@@ -2,7 +2,7 @@
 
 ## Laboratory 1
 
-* [Exploring-Neural-Network-Architectures-for-Image-Classification]([/guides/content/editing-an-existing-page](https://github.com/EdoardoCappelli/Exploring-Neural-Network-Architectures-for-Image-Classification))
+* [Exploring-Neural-Network-Architectures-for-Image-Classification](https://github.com/EdoardoCappelli/Exploring-Neural-Network-Architectures-for-Image-Classification)
 
 ## Laboratory 2
 * [Inferno-GPT](https://github.com/EdoardoCappelli/Inferno-GPT)
